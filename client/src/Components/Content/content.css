@@ -1,0 +1,19 @@
+.Content__wrapper{
+    padding: 120px 120px;
+    display: flex;
+    justify-content: space-between;
+   
+
+
+}
+
+.Content__left button{
+    background-color: orange;
+    border: none;
+    outline: none;
+   padding: 10px 20px;
+}
+
+.Content__right{
+    margin-left: 100px;
+}
